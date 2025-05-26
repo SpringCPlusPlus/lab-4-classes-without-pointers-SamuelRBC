@@ -7,7 +7,6 @@ using namespace std;
 
 // Point Class Declaration
 class Point {
-
     double x;
     double y;
 
